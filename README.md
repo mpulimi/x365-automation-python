@@ -1,8 +1,8 @@
 # x365 ai automation using python script
-Automating the x365.ai Token Claim Process explained in this [video](https://www.youtube.com/watch?v=X8zRZQ_YMwI)
+Automating the x365.ai Token Claim Process explained in this [video](https://www.youtube.com/watch?v=7vPMQItDuLQ)
 
-<a href="https://www.youtube.com/watch?v=X8zRZQ_YMwI&t=9s" target="_blank">
-  <img width="556" alt="x365Automate-c-sharp" src="https://github.com/user-attachments/assets/5441888e-3719-4ec8-af19-0974872d9149" />
+<a href="https://www.youtube.com/watch?v=7vPMQItDuLQ" target="_blank">
+  <img width="556" alt="x365Automate-c-sharp" src="https://github.com/user-attachments/assets/6e645d65-4793-4a84-b46b-e89f8d520a42" />
 </a>
 
 After downloading these files, navigate to the downloaded folder and type 'cmd' in file explorer address bar and press enter. This will open the command prompt and enter the command 'python automate.py'.
