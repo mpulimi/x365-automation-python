@@ -88,5 +88,7 @@ def run_once():
         driver.quit()
 
 if __name__ == "__main__":
-    run_once()
+    while True:
+        run_once()
+        time.sleep(20 * 60)  # 20 minutes in seconds
 
